@@ -1,0 +1,10 @@
+Package: crimeproject
+Type: Package
+Title: What the Package Does (Crime Rate analysis and prediction)
+Version: 0.1.0
+Author: Rajneesh Kaushal & Sai Teja
+Maintainer: The package maintainer <rajneeshkaushal550@gmail.com>
+Description: The project uses linear regression model to predict the crimes for the future six years given the data of 10 years.
+License: GPL
+Encoding: UTF-8
+LazyData: true
